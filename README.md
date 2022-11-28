@@ -1,1 +1,1 @@
-# NMF-movie-recommendation-system
+# echo-chambers-in-movie-recommendation-systems
